@@ -1,0 +1,40 @@
+ {
+  "project_info": {
+    "project_number": "737398915021",
+    "firebase_url": "https://example-77e96-default-rtdb.firebaseio.com",
+    "project_id": "example-77e96",
+    "storage_bucket": "example-77e96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737398915021:android:df558ed01a3daf007d8e84",
+        "android_client_info": {
+          "package_name": "com.sabari.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737398915021-i3o6kk01c5g0hfm6i58dh9evch0nbhv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9OtHQtbBXNzYynoi1E8eV-B2mPmIELvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737398915021-i3o6kk01c5g0hfm6i58dh9evch0nbhv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
